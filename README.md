@@ -21,4 +21,4 @@ Frameworks: Laravel
 
 📫 Contact Me
 Feel free to reach out to me through LinkedIn or check out my projects here on GitHub.
-LinkedIn - https://www.linkedin.com/in/janis-sprogis/
+  LinkedIn - https://www.linkedin.com/in/janis-sprogis/
