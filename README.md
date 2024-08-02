@@ -15,8 +15,6 @@ Buy and sell cryptocurrencies using an API. This project highlights my experienc
 https://github.com/Janis203/Slots2
 A slot machine game. This project is a fun and engaging way to showcase my skills in game development.
 
-📈 GitHub Stats
-
 💼 Skills
 Programming Languages: JavaScript, Java, C++, PHP
 Frameworks: Laravel
