@@ -1,4 +1,4 @@
-Hello! I'm Jānis, a 21-year-old passionate developer with a knack for creating innovative and functional applications. I love diving into new technologies and solving complex problems with elegant solutions.
+Hello! I'm Jānis, a 22-year-old passionate developer with a knack for creating innovative and functional applications. I love diving into new technologies and solving complex problems with elegant solutions.
 
 🚀 Projects
 Here are a few of my favorite projects that showcase my skills and interests:
